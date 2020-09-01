@@ -11,3 +11,7 @@
 [Heap](https://github.com/QuickLearner171998/Competitive-Programming/tree/master/Heap)
 
 [Graphs](https://github.com/QuickLearner171998/Competitive-Programming/tree/master/Graphs)
+
+[Bit Manipulation](https://github.com/QuickLearner171998/Competitive-Programming/tree/master/Bit%20Manipulation)
+
+
