@@ -1,5 +1,6 @@
 # Competitive-Programming
 
+## Topics
 [Arrays](https://github.com/QuickLearner171998/Competitive-Programming/tree/master/Arrays)
 
 [LinkedList](https://github.com/QuickLearner171998/Competitive-Programming/tree/master/LinkedList)
@@ -14,4 +15,14 @@
 
 [Bit Manipulation](https://github.com/QuickLearner171998/Competitive-Programming/tree/master/Bit%20Manipulation)
 
+[Bitmasking](https://github.com/QuickLearner171998/Competitive-Programming/tree/master/Bitmasking)
 
+[Trees](https://github.com/QuickLearner171998/Competitive-Programming/tree/master/Trees)
+
+
+
+## Misc
+
+[Leetcode September Challenge](https://github.com/QuickLearner171998/Competitive-Programming/tree/master/Leetcode%20SeptemberChallenge)
+
+[InterviewExp](https://github.com/QuickLearner171998/Competitive-Programming/tree/master/Interview%20experiences)
