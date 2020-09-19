@@ -10,4 +10,6 @@
 
 [Technical Interview Questions in Computer Vision](http://www.reddit.com/r/computervision/comments/7gku4z/technical_interview_questions_in_cv/)
 
+[Applied Scientist | Amazon | Hyderabad](https://leetcode.com/discuss/compensation/850244/Applied-Scientist-or-Amazon-or-Hyderabad)
+
 [Interview Preparation guidance](https://medium.com/swlh/interview-preparation-that-helped-me-get-multiple-offers-during-the-lockdown-54675bae8bed)
