@@ -12,4 +12,8 @@
 
 [Applied Scientist | Amazon | Hyderabad](https://leetcode.com/discuss/compensation/850244/Applied-Scientist-or-Amazon-or-Hyderabad)
 
+[HyperVerge AI — Manideep Kolla](https://medium.com/the-internship-experience-iit-guwahati/hyperverge-ai-manideep-kolla-7669802831e9)
+
+[What I learned from interviewing at multiple AI companies and start-ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc)
+
 [Interview Preparation guidance](https://medium.com/swlh/interview-preparation-that-helped-me-get-multiple-offers-during-the-lockdown-54675bae8bed)
