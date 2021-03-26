@@ -1,5 +1,9 @@
 # Competitive-Programming
 
+## TO-DO Problems
+
+https://github.com/SeanPrashad/leetcode-patterns
+
 ## Topics
 [Arrays](https://github.com/QuickLearner171998/Competitive-Programming/tree/master/Arrays)
 
