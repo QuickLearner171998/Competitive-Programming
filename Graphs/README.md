@@ -12,3 +12,7 @@
 
 [GfG graph archives](https://www.youtube.com/redirect?redir_token=QUFFLUhqbkcwNEN4bk1ITHQ0eTI2S0JMSDFJQl9PUTdrZ3xBQ3Jtc0tsXzg1Q01PZ2M4cTVZbzdpMm5QWlhJWVFaTTFabmpUY0s0TnBaNHpHcUFwR0x1SEVfWjhRR2JyTW43VnIta25ybkQ3NGE5WHdzLWpENG1yWlMzVXA2MFpETGh5TE5idE1xbWpad19VODRyT3owU0huUQ%3D%3D&v=qci480hbh1Q&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fcategory%2Fdata-structures%2Fgraph%2F&event=video_description)
 
+## TO-DO
+https://leetcode.com/list/?selectedList=535kyiqj
+
+https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
