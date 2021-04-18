@@ -2,6 +2,8 @@
 
 https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-Leetcode
 
+[List](https://leetcode.com/discuss/career/449135/how-to-effectively-use-leetcode-to-prepare-for-interviews)
+
 [EASY]
 
 Must-do Easy questions:
